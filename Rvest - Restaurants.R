@@ -62,7 +62,8 @@ top_restaurant <- as.data.frame(top_restaurant)
 #adding ranking column in the df
 top_restaurant$ranking <- 1:nrow(top_restaurant)
 
-top_restaurant<- top_restaurant[,c(7,1,2,3,4,5,6)]
+#put ranking column as the first column
+top_restaurant <- top_restaurant[,c(7,1,2,3,4,5,6)]
 
 
 ##cleaning top_restaurant data
