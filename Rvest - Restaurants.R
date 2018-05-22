@@ -1,3 +1,6 @@
+#install rvest package
+install.packages("rvest")
+
 #loading packages
 library(rvest)
 
