@@ -70,4 +70,4 @@ top_restaurant$votes <- gsub(' votes','',top_restaurant$votes)
 top_restaurant$cost_for_two <- gsub("\u20b9","",top_restaurant$cost_for_two)
 
 #Saving as output
-write.csv(top_restaurant,'C:/Users/vermas22/Desktop/Consulting/Self Training/top restaurant.csv')
+write.csv(top_restaurant,'top restaurant.csv')
