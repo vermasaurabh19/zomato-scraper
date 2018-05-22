@@ -1,2 +1,4 @@
 # zomato scraper
-Program to fetch(harvest) top restaurants in Bangalore rated on Zomato in r
+A simple r program using rvest package to fetch(harvest) top restaurants in Bangalore based on Ratings on Zomato.
+
+
