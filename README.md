@@ -9,7 +9,7 @@ In the website, point of interest was restaurant name, rating, votes, cuisines s
 
 Using css selectors and xpath, fetched the required information.
 
-Later cleaned the data using gsub and trimws and finally imported the output.
+Later cleaned the data using `gsub` and trimws and finally imported the output.
 
 
 PS - the code and output has been shared for the reference
