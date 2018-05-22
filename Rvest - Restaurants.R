@@ -1,7 +1,5 @@
 #loading packages
 library(rvest)
-library(stringr)
-library(tidyr)
 
 #Specifying the url for desired website to be scrapped
 url <- 'https://www.zomato.com/bangalore/best-restaurants'
